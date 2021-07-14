@@ -77,3 +77,17 @@ Also, do not forget to logOut after using the application, because without that 
     * peer js was used to facilitate the media stream exchange
 * Firebase was used for creating the text chat applications
 
+## Folder overview :
+* /server.js contains the code for video call
+* /main_trial1 contains the frontend and firebase code
+* /main_trial1/src/components contains the various components that have been rendered in the app in different places, in which
+     * Chat.js contains the body of the chat features used
+     * SendMessage.js contains the input feature of every chat feature, facilitates transportation of the data to the firebase
+     * FinalNav.js contains the navigation bar used in /pages/user.js
+     * Team2.js contains the logic for video call and side chat and the associated functions 
+*  /main_trial1/src/pages contains the pages in which the components are to be rendered :
+     * user.js : contains all the personal routes of the user after login
+     * loginSignup : contains all the public routes, ie LOgin and signup page and also, our **firebase connection file, ie firebase.js**
+* Finally, main_trial1/App.js contains all the routing options
+
+
