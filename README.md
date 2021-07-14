@@ -1,7 +1,16 @@
 # The solution for creating the teams clone, Engage 2021
 
+## Features :
+* User Authentication
+* Text Chat
+* Video Chat
+* Mute feature
+* Video Off Feature
+* Screenshare feature
+* Integrated text chat between the video call text chat and the normal text chat (adapt feature)
+
 The challange for this year's Engage Program was to create a teams clone, with basic video calling feature as minimum requirement. The the above is the code that I wrote to try to
-implement so and here is the how to guide, and documnetaion about it,
+implement so and here is the how to guide, and documnetaion about it
 
 ## Set up the code on your local machine :
 Upon downloading the code on your personal computer, run `npm install` , then `<node server.js>`.</br>
