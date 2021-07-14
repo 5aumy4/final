@@ -3,7 +3,7 @@
 The challange for this year's Engage Program was to create a teams clone, with basic video calling feature as minimum requirement. The the above is the code that I wrote to try to
 implement so and here is the how to guide, and documnetaion about it,
 
-##Set up the code on your local machine :
+## Set up the code on your local machine :
 upon downloading the code on your personal computer, run <npm install> , then <node server.js>
 then run <cd main_trial1> (main_trial1 is our frontend/client) and then run <npm install> and <npm start>
 If the packages have been successfully installed on your computer, the application will start running on **localhost:3000**
@@ -37,10 +37,10 @@ They will recieve the following popup :
 ![popup](https://github.com/5aumy4/submission_Engage/blob/main/Screenshot%202021-07-13%20223052.png)
 
 On accepting the call, the video call will start :
-    *The first button facilitates the mic on and off feature
-    *The second button facilitates the camera on and off feature
-    *The thid button is for screen share
-    *The last button enables you to close the meeting
+    * The first button facilitates the mic on and off feature
+    * The second button facilitates the camera on and off feature
+    * The thid button is for screen share
+    * The last button enables you to close the meeting
     
 ![controls](https://github.com/5aumy4/submission_Engage/blob/main/Screenshot%202021-07-13%20223255.png)    
 
