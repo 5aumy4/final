@@ -6,7 +6,7 @@ implement so and here is the how to guide, and documnetaion about it,
 ##Set up the code on your local machine :
 upon downloading the code on your personal computer, run <npm install> , then <node server.js>
 then run <cd main_trial1> (main_trial1 is our frontend/client) and then run <npm install> and <npm start>
-If the packages have been successfully installed on your computer, the application will start running on *localhost:3000*
+If the packages have been successfully installed on your computer, the application will start running on **localhost:3000**
 On your link bar, type <localhost:3000/login>, and soon you will see the login page.
 
 ![log in page](https://github.com/5aumy4/submission_Engage/blob/main/Screenshot%202021-07-13%20222349.png)
