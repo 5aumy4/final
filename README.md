@@ -70,3 +70,10 @@ The navbar has two options:
 The Home button directs the user to the user home page , where the team buttons can be seen and Logout button logs the user out of the application.<br>
 Also, do not forget to logOut after using the application, because without that you won't be able to login or signup again.<br>
 
+## Tech Stack Used :
+* Reactjs was used for creating the frontend
+* Nodejs and express were used for the Video chatting frontend :
+    * Socket.io was used for creating the websocket connections and 
+    * peer js was used to facilitate the media stream exchange
+* Firebase was used for creating the text chat applications
+
